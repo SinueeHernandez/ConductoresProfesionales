@@ -232,13 +232,28 @@
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Areas\HelpPage\Views\_ViewStart.cshtml" />
-    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="audio.min.js" />
+    <Content Include="audiojs.swf" />
+    <Content Include="bootstrap.min.js" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="coundown-timer.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="gmaps.js" />
+    <Content Include="holder.js" />
+    <Content Include="html5shiv.js" />
+    <Content Include="jquery.countTo.js" />
+    <Content Include="jquery.fitvids.js" />
+    <Content Include="jquery.isotope.min.js" />
+    <Content Include="jquery.js" />
+    <Content Include="lightbox.min.js" />
+    <Content Include="main.js" />
+    <Content Include="masonry.min.js" />
+    <Content Include="player-graphics.gif" />
+    <Content Include="respond.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -260,6 +275,7 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="wow.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -306,6 +322,7 @@
     <Content Include="Views\Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="w.gif" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

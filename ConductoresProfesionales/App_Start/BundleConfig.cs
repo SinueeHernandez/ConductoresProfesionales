@@ -36,10 +36,27 @@ namespace ConductoresProfesionales
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                 "~/Scripts/bootstrap.js",
-                "~/Scripts/respond.js"));
+                "~/Scripts/respond.js",
+                "~/js/jquery.js",
+                "~/js/bootstrap.min.js",
+                "~/js/gmaps.js",
+                "~/js/jquery.fitvids.js",
+                "~/js/holder.js",
+                "~/js/lightbox.min.js",
+                "~/js/wow.min.js",
+                "~/js/main.js"
+                ));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                 "~/Content/bootstrap-theme.css",
+                 "~/Content/bootstrap.min.css",
+                 "~/Content/Site.css",
+                 "~/Content/animate.min.css",
+
+                 "~/Content/font-awesome.min.css",
+                 "~/Content/ligthbox.css",
+                 "~/Content/main.css",
+                 "~/Content/prettyPhoto.css",
+                 "~/Content/responsive.css",
                  "~/Content/Site.css"));
         }
     }
